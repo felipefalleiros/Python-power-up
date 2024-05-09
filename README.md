@@ -1,5 +1,5 @@
 # Python-power-up
- Projeto de automação utilizando a biblioteca pyautogui feito durante a jornada python da Hashtag Programação.\
+ Projeto de automação utilizando a biblioteca pyautogui feito durante a jornada python da Hashtag Programação realizada 07/05/2024.\
  Durante o projeto foi apresentado como utilizar a biblioteca pyautogui para fazer automação do mouse e o teclado do computador.\
  Foi utilizada também a biblioteca pandas para importar a base de dados.\
 
